@@ -8,5 +8,5 @@ Amazon, Flipkart and Myntra these three channels are maximum contributing (~80%)
 Maharastra, Karnataka and Uttar Pradesh are the top three states in sales.
 Adult age group (30-49 years) is maximum contributing (~50%).
 
-**What should nbe the next step to increase sales?**
+**What should be the next step to increase sales?**
 Tagret women customers of age group (30-49 yrs) living in Maharastra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
